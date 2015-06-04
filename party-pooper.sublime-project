@@ -2,7 +2,7 @@
 	"folders":
 	[
 		{
-			"path": "/Users/jvandenberghe/Projects/thirdparty-analyzer/node_modules/party-pooper"
+			"path": "../thirdparty-analyzer/node_modules/party-pooper"
 		}
 	]
 }

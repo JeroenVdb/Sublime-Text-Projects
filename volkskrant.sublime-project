@@ -3,7 +3,7 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "/Users/jvandenberghe/Projects/volkskrant",
+			"path": "../volkskrant",
 			"folder_exclude_patterns": [
 				"importer*",
 				"frontend*",

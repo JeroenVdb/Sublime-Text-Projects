@@ -3,7 +3,7 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "/Users/jvandenberghe/Projects/apm-backend",
+			"path": "../apm-backend",
 			"folder_exclude_patterns": ["node_modules", "static", "reports"]
 		}
 	]

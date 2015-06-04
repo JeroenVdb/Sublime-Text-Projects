@@ -3,7 +3,7 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "/Users/jvandenberghe/Projects/web-javascript-libraries"
+			"path": "../web-javascript-libraries"
 		}
 	]
 }

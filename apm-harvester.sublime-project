@@ -3,7 +3,7 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "/Users/jvandenberghe/Projects/apm-harvester",
+			"path": "../apm-harvester",
 			"folder_exclude_patterns": ["node_modules"]
 		}
 	]
