@@ -1,0 +1,41 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jvandenberghe/Projects/volkskrant",
+			"folder_exclude_patterns": [
+				"importer*",
+				"frontend*",
+				"persistence",
+				"helper",
+				"_release",
+				"swagger",
+				"test-utils",
+				"utils",
+				"utils",
+				"deployment",
+				"target",
+				"vk-site-api",
+				"api-site/src/main",
+				"api-site/src/site/xdoc",
+				"raml/authentication",
+				"raml/scripts",
+				"raml/styles",
+				"META-INF",
+				"src/test",
+				"resources/data",
+				"resources/spring",
+				"resources/templates",
+				"node_modules",
+				"WEB-INF/static/js",
+				"WEB-INF/static/css",
+				"WEB-INF/static/fonts",
+				"font"
+			],
+			"file_exclude_patterns": [
+				"*.java"
+			]
+		}
+	]
+}

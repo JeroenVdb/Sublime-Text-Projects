@@ -1,0 +1,36 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jvandenberghe/Projects/old-volkskrant",
+			"folder_exclude_patterns": [
+				"importer*",
+				"frontend*",
+				"persistence",
+				"helper",
+				"_release",
+				"swagger",
+				"test-utils",
+				"utils",
+				"utils",
+				"deployment",
+				"target",
+				"vk-site-api",
+				"api-site/src/main",
+				"api-site/src/site/xdoc",
+				"api-site/src/site/resources/raml/authentication",
+				"api-site/src/site/resources/raml/scripts",
+				"api-site/src/site/resources/raml/styles",
+				"META-INF",
+				"src/test",
+				"main/resources",
+				"node_modules",
+				"WEB-INF/static/js",
+				"WEB-INF/static/css",
+				"WEB-INF/static/fonts",
+				"font"
+			]
+		}
+	]
+}
